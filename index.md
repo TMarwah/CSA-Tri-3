@@ -1,17 +1,14 @@
-## Welcome to GitHub Pages
+## Tanmay Indi Github Page
 
-You can use the [editor on GitHub](https://github.com/TMarwah/CSA-Tri-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# TT0
+[Repl Link](https://replit.com/@TMarwah/tt0-tanmay)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# TT1
+[Link](https://replit.com/@TMarwah/tt0-tanmay)
 
-### Markdown
+# TT2
+[Link](https://replit.com/@TMarwah/tt0-tanmay)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
 ## Header 2
 ### Header 3
 
